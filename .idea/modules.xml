@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Happy Number/Happy Number.iml" filepath="$PROJECT_DIR$/Happy Number/Happy Number.iml" />
     </modules>
   </component>
 </project>
