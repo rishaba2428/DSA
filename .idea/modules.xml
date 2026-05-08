@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Happy Number/Happy Number.iml" filepath="$PROJECT_DIR$/Happy Number/Happy Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Word pattern/Word pattern.iml" filepath="$PROJECT_DIR$/Word pattern/Word pattern.iml" />
     </modules>
   </component>
 </project>
