@@ -7,6 +7,6 @@ class Solution {
             j++;
         }
 
-        Arrays.sort(nums2);
+        Arrays.sort(nums1);
     }
 }
